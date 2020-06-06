@@ -1,6 +1,4 @@
 #generating VNFD package - version 1.0
-#by jeremy.li@ericsson.com
-
 import xml.etree.ElementTree as ET
 from zipfile import ZipFile 
 from tarfile import TarFile
